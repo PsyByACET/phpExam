@@ -1,3 +1,7 @@
 # phpExam
-pаss:1234
+pass:1234
 nick: leh
+
+OR
+pass:12345
+nick: admin
