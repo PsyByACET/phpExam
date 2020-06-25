@@ -13,7 +13,7 @@
 </head>
 <body>
     
-    <h1>Вход для администатора</h1>
+    <h1>Вход для администатора (leh 1234)</h1>
     <form method="POST" action="rw.php">
         <input type="text" placeholder="Логин" name="loin">
         <input type="text" placeholder="пароль" name="pssword">
